@@ -1,0 +1,48 @@
+
+{
+  "app": {
+    "title": "TradeAI",
+    "subtitle": "智能交易平台"
+  },
+  "nav": {
+    "dashboard": "仪表盘",
+    "portfolio": "投资组合",
+    "marketAnalysis": "市场分析",
+    "aiAdvisor": "AI顾问",
+    "settings": "设置",
+    "search": "搜索符号、新闻..."
+  },
+  "marketAnalysis": {
+    "title": "市场分析",
+    "subtitle": "全面的市场分析和交易洞察",
+    "marketIndicators": "市场指标",
+    "topMovers": "最活跃股票"
+  },
+  "dashboard": {
+    "welcome": "欢迎回来！以下是您今天的交易概览。",
+    "title": "仪表盘"
+  },
+  "portfolio": {
+    "title": "投资组合",
+    "subtitle": "管理您的投资并跟踪您的表现"
+  },
+  "aiAdvisor": {
+    "title": "AI顾问",
+    "subtitle": "从我们的高级AI获取个性化交易建议"
+  },
+  "aiAssistant": {
+    "title": "AI助手",
+    "description": "有问题？询问我们的AI助手获取帮助！"
+  },
+  "language": {
+    "select": "选择语言"
+  },
+  "marketTable": {
+    "title": "市场概览",
+    "symbol": "代码",
+    "name": "名称",
+    "price": "价格",
+    "change": "涨跌",
+    "volume": "成交量"
+  }
+}

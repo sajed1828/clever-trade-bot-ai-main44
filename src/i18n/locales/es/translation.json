@@ -1,0 +1,48 @@
+
+{
+  "app": {
+    "title": "TradeAI",
+    "subtitle": "Plataforma de Trading Inteligente"
+  },
+  "nav": {
+    "dashboard": "Panel de Control",
+    "portfolio": "Portafolio",
+    "marketAnalysis": "Análisis de Mercado",
+    "aiAdvisor": "Asesor IA",
+    "settings": "Configuración",
+    "search": "Buscar símbolos, noticias..."
+  },
+  "marketAnalysis": {
+    "title": "Análisis de Mercado",
+    "subtitle": "Análisis completo del mercado e ideas de trading",
+    "marketIndicators": "Indicadores de Mercado",
+    "topMovers": "Mayores Movimientos"
+  },
+  "dashboard": {
+    "welcome": "¡Bienvenido de nuevo! Aquí está su visión general de trading para hoy.",
+    "title": "Panel de Control"
+  },
+  "portfolio": {
+    "title": "Portafolio",
+    "subtitle": "Gestione sus inversiones y haga seguimiento de su rendimiento"
+  },
+  "aiAdvisor": {
+    "title": "Asesor IA",
+    "subtitle": "Obtenga asesoramiento de trading personalizado de nuestra IA avanzada"
+  },
+  "aiAssistant": {
+    "title": "Asistente IA",
+    "description": "¿Tienes preguntas? ¡Pregunta a nuestro asistente IA!"
+  },
+  "language": {
+    "select": "Seleccionar Idioma"
+  },
+  "marketTable": {
+    "title": "Visión General del Mercado",
+    "symbol": "Símbolo",
+    "name": "Nombre",
+    "price": "Precio",
+    "change": "Cambio",
+    "volume": "Volumen"
+  }
+}

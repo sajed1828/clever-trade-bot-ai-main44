@@ -1,0 +1,48 @@
+
+{
+  "app": {
+    "title": "TradeAI",
+    "subtitle": "インテリジェント取引プラットフォーム"
+  },
+  "nav": {
+    "dashboard": "ダッシュボード",
+    "portfolio": "ポートフォリオ",
+    "marketAnalysis": "市場分析",
+    "aiAdvisor": "AIアドバイザー",
+    "settings": "設定",
+    "search": "銘柄、ニュースを検索..."
+  },
+  "marketAnalysis": {
+    "title": "市場分析",
+    "subtitle": "包括的な市場分析と取引の洞察",
+    "marketIndicators": "市場指標",
+    "topMovers": "値動きの大きい銘柄"
+  },
+  "dashboard": {
+    "welcome": "お帰りなさい！本日の取引概要です。",
+    "title": "ダッシュボード"
+  },
+  "portfolio": {
+    "title": "ポートフォリオ",
+    "subtitle": "投資を管理し、パフォーマンスを追跡する"
+  },
+  "aiAdvisor": {
+    "title": "AIアドバイザー",
+    "subtitle": "高度なAIからパーソナライズされた取引アドバイスを取得"
+  },
+  "aiAssistant": {
+    "title": "AIアシスタント",
+    "description": "質問がありますか？AIアシスタントにお尋ねください！"
+  },
+  "language": {
+    "select": "言語を選択"
+  },
+  "marketTable": {
+    "title": "市場概況",
+    "symbol": "銘柄コード",
+    "name": "名称",
+    "price": "価格",
+    "change": "変動",
+    "volume": "出来高"
+  }
+}
