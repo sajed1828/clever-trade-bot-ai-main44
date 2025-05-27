@@ -1,73 +1,47 @@
-# Welcome to your Lovable project
+# Clever Trade Bot AI 🤖📈
 
-## Project info
+This project is an AI-powered trading bot designed to analyze market data and execute automated trading strategies.
 
-**URL**: https://lovable.dev/projects/97089675-8980-46b2-bd67-15cbd68affed
+---
 
-## How can I edit this code?
+## 🚧 Project Status
 
-There are several ways of editing your application.
+⚠️ **Important:** This project is **incomplete** and still under development.  
+It is not ready for production use yet. Features are being added and improved continuously.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/97089675-8980-46b2-bd67-15cbd68affed) and start prompting.
+## 📌 Current Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- Market data analysis using Python and machine learning  
+- Support for automated trading on platforms like Binance (in progress)  
+- Scalable architecture to implement different trading strategies  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Technologies Used
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Python  
+- Machine Learning libraries (scikit-learn, TensorFlow, or PyTorch)  
+- Binance API (setup in progress)  
+- Pandas, NumPy for data analysis  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🚀 How to Use
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1. Clone the repository:  
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 📞 Contact
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+For more information or collaboration, feel free to reach out:
 
-**Use GitHub Codespaces**
+- GitHub: [https://github.com/Houssen1234](https://github.com/sajed1828  
+- Freelancer: [https://www.freelancer.com/u/pics1](https://www.freelancer.com/u/pics1)  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/97089675-8980-46b2-bd67-15cbd68affed) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Thank you for your interest in the project! 🚀
